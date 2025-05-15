@@ -1,8 +1,8 @@
 # EXP NO:6
 
 # SR-FLIPFLOP-USING-CASE
-## Name: Naveenkumar M
-## Reg no:212224230182 
+## Name: NIJANTH K
+## Reg no:212224230186
 
 **AIM:**
 
